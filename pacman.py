@@ -397,3 +397,4 @@ if __name__ == "__main__":
         eventos = pygame.event.get()
         pacman.processar_eventos(eventos)
         cenario.processar_eventos(eventos)
+        
